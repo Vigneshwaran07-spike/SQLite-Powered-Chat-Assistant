@@ -1,6 +1,8 @@
 # SQLite-Powered-Chat-Assistant
 # Chat Assistant for SQLite Database
+## Author
 
+This project was developed by [Vigneshwaran](https://github.com/Vigneshwaran07-spike).
 ## Objective
 
 To design, implement, and deploy a chat assistant that interacts with an SQLite database to answer user queries.
